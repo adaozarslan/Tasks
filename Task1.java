@@ -6,7 +6,8 @@ public class Task1 {
 
 	/*
 	 * 
-	 * Author: Ada Ozarslan Date: 2th of February 2021
+	 * Author: Ada Ozarslan 
+	 * Date: 2th of February 2021
 	 * Github:https://github.com/adaozarslan
 	 * 
 	 * 

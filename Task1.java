@@ -14,6 +14,7 @@ public class Task1 {
 	 */
 
 	public static void main(String[] args) {
+	    System.out.println("WELCOME TO GRADING PROGRAM");
 
 		// gives info and insight about the program
 		System.out.println("* To see your grading please enter the specified points");

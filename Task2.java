@@ -98,7 +98,7 @@ public class Task2 {
 
 			} else {
 				System.out.println();
-				System.out.println("Invalid entry, please wite rock, paper or scissors");
+				System.out.println("Invalid entry, please write rock, paper or scissors");
 			}
 
 			System.out.println();

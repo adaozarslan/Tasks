@@ -53,12 +53,12 @@ public class Task2 {
 		while (!quit) {// to loop the game forever
 
 			// scanner for player move input
-			System.out.println(player1 + "Make your move : ");
+			System.out.println(player1 + " Make your move : ");
 			String moveP1 = console.nextLine();
 
 			System.out.println();
 
-			System.out.println(player2 + "Make your move : ");
+			System.out.println(player2 + " Make your move : ");
 			String moveP2 = console.nextLine();
 
 			// Winning conditions & results

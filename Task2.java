@@ -63,33 +63,41 @@ public class Task2 {
 
 			// Winning conditions & results
 			if (moveP1.equals(moveP2)) {
+				System.out.println();
 				System.out.println("Tie!!");
 
 			} else if (moveP1.equals(r) && moveP2.equals(p)) {
+				System.out.println();
 				System.out.println("Paper eats Rock");
 				System.out.println(player2 + " Wins!!");
 
 			} else if (moveP1.equals(r) && moveP2.equals(s)) {
+				System.out.println();
 				System.out.println("Rock crashes Scissors");
 				System.out.println(player1 + " Wins!!");
 
 			} else if (moveP1.equals(p) && moveP2.equals(r)) {
+				System.out.println();
 				System.out.println("Paper eats Rock");
 				System.out.println(player1 + " Wins!!");
 
 			} else if (moveP1.equals(p) && moveP2.equals(s)) {
+				System.out.println();
 				System.out.println("Scissors cut Paper");
 				System.out.println(player2 + " Wins!!");
 
 			} else if (moveP1.equals(s) && moveP2.equals(r)) {
+				System.out.println();
 				System.out.println("Rock crashes Scissors");
 				System.out.println(player2 + " Wins!!");
 
 			} else if (moveP1.equals(s) && moveP2.equals(p)) {
+				System.out.println();
 				System.out.println("Scissors cut Paper");
 				System.out.println(player1 + " Wins!!");
 
 			} else {
+				System.out.println();
 				System.out.println("Invalid entry, please wite rock, paper or scissors");
 			}
 
